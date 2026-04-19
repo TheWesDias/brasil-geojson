@@ -1,0 +1,680 @@
+{
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/BR_Municipios_2025.zip": {
+    "content-length": "237062431",
+    "etag": "\"e21491f-64bbf9ac98a00\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:48 GMT",
+    "sha256": "840bbe6f73726ef9d1460ce49fdfe01a278935c41180d3c893e25ca21db083bd"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/BR_RG_Imediatas_2025.zip": {
+    "content-length": "84195072",
+    "etag": "\"504b700-64bbf9ac98a00\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:48 GMT",
+    "sha256": "f075277a6b84de360df6e0c6a854e4d9bf74535b64dff166d49456228970bd46"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/BR_RG_Intermediarias_2025.zip": {
+    "content-length": "45932789",
+    "etag": "\"2bce0f5-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "11102f4b6a8fe332631850b9bb78fca0f17785c6780e0dfc5f1e3b5822a06312"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/BR_Regioes_2025.zip": {
+    "content-length": "10320990",
+    "etag": "\"9d7c5e-64bbf9ac98a00\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:48 GMT",
+    "sha256": "02349e4f4567354215903c6bd2b56c3b93f1edd17065b1d70efde5bada5138de"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/Brasil/BR_UF_2025.zip": {
+    "content-length": "14814182",
+    "etag": "\"e20be6-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "cdbbf05f79153802cbfa74d0c29814cd76a9c0b925aea910c9f04dffc28e6167"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AC/AC_Municipios_2025.zip": {
+    "content-length": "1782603",
+    "etag": "\"1b334b-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "f55c5b7385aeb797fac243530f5ba5631d260be2e3847bfe03d4b107898b59a9"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AC/AC_RG_Imediatas_2025.zip": {
+    "content-length": "693382",
+    "etag": "\"a9486-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "6c35dfe28f10988aaa287c70b55572545a3d37e20ea41cee150a0b1c52fe575b"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AC/AC_RG_Intermediarias_2025.zip": {
+    "content-length": "528670",
+    "etag": "\"8111e-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "ebe8bfcb3fa62f846311f1a7223712bac6cc5d706c1833def5c128c83915c714"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AC/AC_UF_2025.zip": {
+    "content-length": "517852",
+    "etag": "\"7e6dc-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "b2d75d9653bed8f52f5eb35dd563b77b8f04c88fdd68a2eaa504db5e088163f9"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AL/AL_Municipios_2025.zip": {
+    "content-length": "2166681",
+    "etag": "\"210f99-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "e19125e87b9f77bcf0b2fd5cb1b56a7321dd8500f1664295e1fabde321723bf2"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AL/AL_RG_Imediatas_2025.zip": {
+    "content-length": "666406",
+    "etag": "\"a2b26-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "814f929394771ecca377db0dc2e7008617ee235f5cc31d15e4a0619423227961"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AL/AL_RG_Intermediarias_2025.zip": {
+    "content-length": "283208",
+    "etag": "\"45248-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "2c3878130eec961769a312ffc12b4fc17786d34b34b8226e36410b428eb05d0e"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AL/AL_UF_2025.zip": {
+    "content-length": "107580",
+    "etag": "\"1a43c-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "dfee7af29b67f76add1ffe6e17f59555d8de9bd8c9cc7647cba0ea8a4c1e273e"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AM/AM_Municipios_2025.zip": {
+    "content-length": "26750999",
+    "etag": "\"1983017-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "6be84c61a9ad3c8510ea91b36a5da3b1860b580e5d3ddd29a6700c04a8e09b92"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AM/AM_RG_Imediatas_2025.zip": {
+    "content-length": "11029815",
+    "etag": "\"a84d37-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "291258e939f8b44203b888b12c6e7771679efcd82113c89c4811a7e1c6c937cc"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AM/AM_RG_Intermediarias_2025.zip": {
+    "content-length": "6758765",
+    "etag": "\"67216d-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "5740a5dcf051dd7b06083f19bd8c6e2578670d381f4a04eaf795c6a684aabde5"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AM/AM_UF_2025.zip": {
+    "content-length": "1153607",
+    "etag": "\"119a47-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "fe2ba73c325c8971332d7ac48e313b357dd279e8d4514281c7fcc49d7faaa3ed"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AP/AP_Municipios_2025.zip": {
+    "content-length": "1055447",
+    "etag": "\"101ad7-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "489034342880fe4b32ef220d2901a5ed8e945d65bc6adb93ccc8b87c21ee2079"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AP/AP_RG_Imediatas_2025.zip": {
+    "content-length": "540008",
+    "etag": "\"83d68-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "d61c8a47ee64d8b0958f21f6c2ab4f813c5c34668b030e92a3a1abd88c7fbecc"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AP/AP_RG_Intermediarias_2025.zip": {
+    "content-length": "341089",
+    "etag": "\"53461-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "fcb39d7cfb6987320e9e58867284cd366ed656f0b7c4643e7f1a7dc3d0c99956"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/AP/AP_UF_2025.zip": {
+    "content-length": "203236",
+    "etag": "\"319e4-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "0960342802159b88165802715ecdb1b080a145a12a8149dc11d892869fbda4d3"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/BA/BA_Municipios_2025.zip": {
+    "content-length": "13568468",
+    "etag": "\"cf09d4-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "cac0d02febfaaf1da20d0d5c1fe5d6289377ffaa745c8334ec9b7d85a413956f"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/BA/BA_RG_Imediatas_2025.zip": {
+    "content-length": "4893266",
+    "etag": "\"4aaa52-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "7c7eeef6856825911e8b625786c320ad57acef8c698bc569d3252492fd71b6e8"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/BA/BA_RG_Intermediarias_2025.zip": {
+    "content-length": "2950031",
+    "etag": "\"2d038f-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "1d543166778a19738e882668023a58d8279601864d0dcc2614a1164a176f322d"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/BA/BA_UF_2025.zip": {
+    "content-length": "1212398",
+    "etag": "\"127fee-64bbf9aab0580\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:46 GMT",
+    "sha256": "fd96c0e398b16f0af8bf83348506d0070a3f0f9e04977cc417391928ca19bb82"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/CE/CE_Municipios_2025.zip": {
+    "content-length": "3410139",
+    "etag": "\"3408db-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "969c8b928f9b0945a3bf18b2411b027b0cc35428932063f0cb8df8f526fd2d66"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/CE/CE_RG_Imediatas_2025.zip": {
+    "content-length": "1225372",
+    "etag": "\"12b29c-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "a5b1f4b054188f148c78fde996d14996d6b1185b8ff5167c8f1df31aa4753135"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/CE/CE_RG_Intermediarias_2025.zip": {
+    "content-length": "765022",
+    "etag": "\"bac5e-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "e951bb121c7846a94c53b8ef3ad02c1d01fde9f97ab668706b371b54d916f79f"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/CE/CE_UF_2025.zip": {
+    "content-length": "121027",
+    "etag": "\"1d8c3-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "e71b3df6f8b62807a5a62dde127185fe214f7b3ee05edbcf52a11ef87e780aab"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/DF/DF_Municipios_2025.zip": {
+    "content-length": "121012",
+    "etag": "\"1d8b4-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "71c0fae75f74a536b3431bbbe0cb354edb6141227aad8ae570880bd274517136"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/DF/DF_RG_Imediatas_2025.zip": {
+    "content-length": "120986",
+    "etag": "\"1d89a-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "a4a3985a9683e3a397d8385fb4b3cb689b5de72b352acabe7e3511b87961cd13"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/DF/DF_RG_Intermediarias_2025.zip": {
+    "content-length": "121031",
+    "etag": "\"1d8c7-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "df18e0de404e6d5298f70af4b09c8d5cce5d50a5569811fa77385828b1b2e3de"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/DF/DF_UF_2025.zip": {
+    "content-length": "120828",
+    "etag": "\"1d7fc-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "9810cb73a4a0b321081100ba2f0c3f8fc946a479709676410a1899aa7c334941"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/ES/ES_Municipios_2025.zip": {
+    "content-length": "3357757",
+    "etag": "\"333c3d-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "8e4d59adc8de8fb565aea24f1716d469dbb46bae67bab65eafd9f75bf47b7010"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/ES/ES_RG_Imediatas_2025.zip": {
+    "content-length": "1151308",
+    "etag": "\"11914c-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "0b05e5143344e0875fee5b2737959955c4bba6a60568849439e29a08de845628"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/ES/ES_RG_Intermediarias_2025.zip": {
+    "content-length": "798921",
+    "etag": "\"c30c9-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "26388cfac7cd476d870f6f726b335f8832e8ffb5f59fc7cdd07a30209ca65a8d"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/ES/ES_UF_2025.zip": {
+    "content-length": "382141",
+    "etag": "\"5d4bd-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "b8e69dfd0056dde639f767cf5eabbc03bc9ec044cf2fa4896ae29934a6f7d70c"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/GO/GO_Municipios_2025.zip": {
+    "content-length": "17436035",
+    "etag": "\"10a0d83-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "56c41ceb00692f0bb2171ed688289c58c076621983eeaa8981071a79f64de86a"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/GO/GO_RG_Imediatas_2025.zip": {
+    "content-length": "6221874",
+    "etag": "\"5ef032-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "399c46c15c98192359e49d68b2e70f62e3ecc5da925b93e617c94f13dd380578"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/GO/GO_RG_Intermediarias_2025.zip": {
+    "content-length": "3488642",
+    "etag": "\"353b82-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "afe00020c005d6276540e8c4059d4e0c49db4e753205c9f79ada04e0eb0d80b3"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/GO/GO_UF_2025.zip": {
+    "content-length": "1222918",
+    "etag": "\"12a906-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "0a43131fa18d80482082a9c9dee91f38b18d75264961e632b955476f952150c7"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MA/MA_Municipios_2025.zip": {
+    "content-length": "9685188",
+    "etag": "\"93c8c4-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "6eb7b25dfdb82aa57f664f3b5101542011cd4b5aeee44c9f1cc41afc7b75a53e"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MA/MA_RG_Imediatas_2025.zip": {
+    "content-length": "2980779",
+    "etag": "\"2d7bab-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "7a5d4191d353446c193e3740e9e491567a74f86b747bab0d9ffab7d9b9b532aa"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MA/MA_RG_Intermediarias_2025.zip": {
+    "content-length": "2199237",
+    "etag": "\"218ec5-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "d519ceb4a777bd2182ac2e2f7876d6cd367c9cfecbbb14807fb37632b60f218a"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MA/MA_UF_2025.zip": {
+    "content-length": "577569",
+    "etag": "\"8d021-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "3be58ef36ae981c23657082f5a8ce12bff755a735a7765899d51a63e7cdd6dd9"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MG/MG_Municipios_2025.zip": {
+    "content-length": "31530483",
+    "etag": "\"1e11df3-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "15313baf3a05d43f03c50dacb605e2b07f6e3cd961aa1594c8e4aefbd6baacd7"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MG/MG_RG_Imediatas_2025.zip": {
+    "content-length": "10593459",
+    "etag": "\"a1a4b3-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "dae827984b279c8d445a6481f2b7e973b259c14ec1b75d0711050fcc486efe98"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MG/MG_RG_Intermediarias_2025.zip": {
+    "content-length": "4752409",
+    "etag": "\"488419-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "5c516367221fc3e18e969e039f58bdc39cafe21251f35dcf0bdc5cd1c577d230"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MG/MG_UF_2025.zip": {
+    "content-length": "462666",
+    "etag": "\"70f4a-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "93ab031340623aeb57c82732e5bf601cf08668bfa4d281e529e0c014830d95ff"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MS/MS_Municipios_2025.zip": {
+    "content-length": "8917476",
+    "etag": "\"8811e4-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "e297084a24b4b639a9e1792b5dd16cf80c6b2ec1e63fd1307ea7201d662de6cf"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MS/MS_RG_Imediatas_2025.zip": {
+    "content-length": "3727683",
+    "etag": "\"38e143-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "964e92f158549b85c49d0c84a22a2710e84c7b5d264d95b08a146f57333fb038"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MS/MS_RG_Intermediarias_2025.zip": {
+    "content-length": "1120188",
+    "etag": "\"1117bc-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "0b9005721213f94578cb11baadf194683b37a5b765dc5aca1aaa2675c847a0cf"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MS/MS_UF_2025.zip": {
+    "content-length": "235215",
+    "etag": "\"396cf-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "7f089ef026df7b488f15b0707994b353f5e95d266c916fdce0ac2d8db5e3a396"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MT/MT_Municipios_2025.zip": {
+    "content-length": "9476597",
+    "etag": "\"9099f5-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "86f3cc662ff63c9742f095ba60fa201721f8faf1d9dc4cd3f59c20028cc9b7a0"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MT/MT_RG_Imediatas_2025.zip": {
+    "content-length": "3398820",
+    "etag": "\"33dca4-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "7c6f8051f529a446540a175b40e230940e8883f55f9fe8c09e9a4951ecf6065d"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MT/MT_RG_Intermediarias_2025.zip": {
+    "content-length": "2046807",
+    "etag": "\"1f3b57-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "6c3023d7dec6872acdd8343279e33f4c62e0412afc2885420c413e835818c022"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/MT/MT_UF_2025.zip": {
+    "content-length": "307065",
+    "etag": "\"4af79-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "7b36f2e9661ccf45fdefb31266c7ea9039059af8c78d6fb4db44b7d2ffa2bdc1"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PA/PA_Municipios_2025.zip": {
+    "content-length": "2587010",
+    "etag": "\"277982-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "4005e1839471ecb7a9e94fbcde1e4563e6ad63291ed6a10694fe18a46b14519f"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PA/PA_RG_Imediatas_2025.zip": {
+    "content-length": "1252586",
+    "etag": "\"131cea-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "4ee9f8cb29d7602e984371240b640b1419cdf3c58a081bd31d0520d46dd21c55"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PA/PA_RG_Intermediarias_2025.zip": {
+    "content-length": "801625",
+    "etag": "\"c3b59-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "426a28b2264f5c72f955bf0bfe5ce416e4df1c345a932aaafb9fe99234041e14"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PA/PA_UF_2025.zip": {
+    "content-length": "486165",
+    "etag": "\"76b15-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "f01247e31debb8a11bada4d22cdfaf621cacc7a0f80f9248cc4865719bad622c"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PB/PB_Municipios_2025.zip": {
+    "content-length": "2780341",
+    "etag": "\"2a6cb5-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "6e8af1ffd4239ec4a25d1f233b5e78d6a99d6fedc517d76776934595be35bda4"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PB/PB_RG_Imediatas_2025.zip": {
+    "content-length": "574705",
+    "etag": "\"8c4f1-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "ce7504b4bb6dde3e91f2de2ee9e75dee6d161c50514cac2e1f975963b9d1c163"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PB/PB_RG_Intermediarias_2025.zip": {
+    "content-length": "252587",
+    "etag": "\"3daab-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "3a93a9313545913d55b5603ce51ff1bb73e89aaf5f03072295ad509a0a23e17f"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PB/PB_UF_2025.zip": {
+    "content-length": "113633",
+    "etag": "\"1bbe1-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "2bd11ce11edaced9317e062ea6a20a0195284c2f93ab9383ee41e41fbf1f9884"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PE/PE_Municipios_2025.zip": {
+    "content-length": "1869450",
+    "etag": "\"1c868a-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "534bc4d7a146a37c579d688bf75f5b19250070531d675c575a40943ede0d2cb8"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PE/PE_RG_Imediatas_2025.zip": {
+    "content-length": "657093",
+    "etag": "\"a06c5-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "05cc8ecfc8afd8bb863c00ff330db0b8c863bdccbfc08043fbcbef1d46adc429"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PE/PE_RG_Intermediarias_2025.zip": {
+    "content-length": "267227",
+    "etag": "\"413db-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "856596722c50599105eea66ba63643d5b97ab5680d9dc03e730d95ce1455da21"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PE/PE_UF_2025.zip": {
+    "content-length": "187943",
+    "etag": "\"2de27-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "ad9d2a79122e33aeedd24883812164bb020c9a8745960d05526b96c99f256f89"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PI/PI_Municipios_2025.zip": {
+    "content-length": "1854237",
+    "etag": "\"1c4b1d-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "f4514873d344e8bbffa17f1da4261b4399d828ebeff4030450d7bcf6236f8287"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PI/PI_RG_Imediatas_2025.zip": {
+    "content-length": "626413",
+    "etag": "\"98eed-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "766d59669d557e926538029878881235a45265398608803188d14e979103b4ed"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PI/PI_RG_Intermediarias_2025.zip": {
+    "content-length": "297534",
+    "etag": "\"48a3e-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "654d2c53640750ed1e6702db8aa7a5eb47d8ab95052767a01583f1697bc078bd"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PI/PI_UF_2025.zip": {
+    "content-length": "132468",
+    "etag": "\"20574-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "5d5a84bfeedc9c48631f436e16a1c12ad79abd07ca0fee45399bea62f52ac401"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PR/PR_Municipios_2025.zip": {
+    "content-length": "12049154",
+    "etag": "\"b7db02-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "1a9b6ff7d1e2a42665dc3e9a9bde46a542d6609c7d775092c4e767d9899d3e6f"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PR/PR_RG_Imediatas_2025.zip": {
+    "content-length": "3326284",
+    "etag": "\"32c14c-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "69ffd6b3e03076c516ed2c2678c72b5f2fb084215e1ab78a2b8ad502b466d628"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PR/PR_RG_Intermediarias_2025.zip": {
+    "content-length": "1732995",
+    "etag": "\"1a7183-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "df6e1f8d404ad7fc28efc315e251b79e4253d2bde439cbd1a3147ae5cfd0a5bb"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/PR/PR_UF_2025.zip": {
+    "content-length": "346662",
+    "etag": "\"54a26-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "9429eaf1b5a15f6b4d2dc2b9762da6f0642c237bfa54b5dab13d078a3dfe2998"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RJ/RJ_Municipios_2025.zip": {
+    "content-length": "4959687",
+    "etag": "\"4badc7-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "41f7f31a2f5f23b5b58b75a047c3d9c8239a7013523e12ddd0ba8052aa7094c6"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RJ/RJ_RG_Imediatas_2025.zip": {
+    "content-length": "2839929",
+    "etag": "\"2b5579-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "a12281ea3efa31ea1d3750ee6f3d400ad13280ec1b72d5641e30851682902cfc"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RJ/RJ_RG_Intermediarias_2025.zip": {
+    "content-length": "2135816",
+    "etag": "\"209708-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "f4f4193235f70b0198956ef4a2ddf6a25f30ae8f0057e569b38dc2ac03841765"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RJ/RJ_UF_2025.zip": {
+    "content-length": "1392237",
+    "etag": "\"153e6d-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "6cf498222ddcbf878a067ffad6721292cf021b9d1f5dc07d682de69d12750f62"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RN/RN_Municipios_2025.zip": {
+    "content-length": "393965",
+    "etag": "\"602ed-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "27788be379c71b523bfb3383e1c8bb70dcf6b57a3794fc69c19c9934b7d03bb3"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RN/RN_RG_Imediatas_2025.zip": {
+    "content-length": "155604",
+    "etag": "\"25fd4-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "aba18c53deddd2e18bbea27f8ea7e358d4dc15901a56b69066b3940e3421d38e"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RN/RN_RG_Intermediarias_2025.zip": {
+    "content-length": "119841",
+    "etag": "\"1d421-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "c6cb4f98650b6c087fb5eeb65712d8363fa122f0378397609bc6ded651109b0c"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RN/RN_UF_2025.zip": {
+    "content-length": "104408",
+    "etag": "\"197d8-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "3f18d7f25e6a15d3d0e18d409d8f38cb433c6a03c28284f07acd721c7ea06f58"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RO/RO_Municipios_2025.zip": {
+    "content-length": "896858",
+    "etag": "\"daf5a-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "0b5df48a5c8fd5658d305d05a9ff660632582fbe93545ca97895452916d6b5f3"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RO/RO_RG_Imediatas_2025.zip": {
+    "content-length": "414925",
+    "etag": "\"654cd-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "9b04c8b5ad8bbd9905ce285eaeafbe944ccf6ef448f437ff03a5e63f62dc65bc"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RO/RO_RG_Intermediarias_2025.zip": {
+    "content-length": "257278",
+    "etag": "\"3ecfe-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "6f1f547fb601a7637ef22d7ec5f2b5212912eaad36f857d8566633a9c592ad3a"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RO/RO_UF_2025.zip": {
+    "content-length": "195320",
+    "etag": "\"2faf8-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "928dfcd6b64cba02e9a736b82aedb1fee25ca2c21cacce15bcd32bc939eca13e"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RR/RR_Municipios_2025.zip": {
+    "content-length": "1006752",
+    "etag": "\"f5ca0-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "49125799eaab6944c4eb86757f49c797492778f9cf72e1fc3faf6aa7ce0d9388"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RR/RR_RG_Imediatas_2025.zip": {
+    "content-length": "870120",
+    "etag": "\"d46e8-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "7ca0deecf5e08a54f58cd56306adde516196667dd2f8bcca03c12cd0ef0b9d5b"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RR/RR_RG_Intermediarias_2025.zip": {
+    "content-length": "778156",
+    "etag": "\"bdfac-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "e4156a1b3a3744be78e521b51e265ecbdc9545c5dcaa02bc65125a19d6a974f1"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RR/RR_UF_2025.zip": {
+    "content-length": "668567",
+    "etag": "\"a3397-64bbf9ae80e80\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:50 GMT",
+    "sha256": "04863099b08c4d4a4efaad9a00cb053dfbe60af2fceb1db2ab57762ede1f1629"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RS/RS_Municipios_2025.zip": {
+    "content-length": "10139778",
+    "etag": "\"9ab882-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "d70d47ccd1c2722e78a6dcc7fa4a00715679684785aa137ed2bf11999de28513"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RS/RS_RG_Imediatas_2025.zip": {
+    "content-length": "4064933",
+    "etag": "\"3e06a5-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "863c54f8cf0dc42b5c625d4b52a326c4b09acea0fc9d2a32ed076394ed4d0689"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RS/RS_RG_Intermediarias_2025.zip": {
+    "content-length": "2018200",
+    "etag": "\"1ecb98-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "c958b6531465398381a55ec904c13555c078b33a6ba89fa5c7ab70bb1bd64763"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/RS/RS_UF_2025.zip": {
+    "content-length": "286905",
+    "etag": "\"460b9-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "9b66a3e31d691d92a12cd822ef56ec1d516edcf5feb3298847cafc9d51a9ead7"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SC/SC_Municipios_2025.zip": {
+    "content-length": "27814321",
+    "etag": "\"1a869b1-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "aeae3196244208ca51d0fa45c80ae2525b9eebee4762c45e8c1c8f183c3518ec"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SC/SC_RG_Imediatas_2025.zip": {
+    "content-length": "9234281",
+    "etag": "\"8ce769-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "d5c9bb2ec6638f3278cc29cbb67e1bd5bb7a34fa647eb9b8943126a36dd924b8"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SC/SC_RG_Intermediarias_2025.zip": {
+    "content-length": "4702567",
+    "etag": "\"47c167-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "0b050a78625075217b4c5f4c98998d85dea58a9b11200d0a76c61d4a94600724"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SC/SC_UF_2025.zip": {
+    "content-length": "1766597",
+    "etag": "\"1af4c5-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "8c216c0b794f13a6535b713ceab8ec6b2f9f8473a12c163c56b71cbffeee804c"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SE/SE_Municipios_2025.zip": {
+    "content-length": "1503802",
+    "etag": "\"16f23a-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "7758a01f59ec18b3b989626ff3ed4841f726e5b2c7310ef4fa0de1510255f8c1"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SE/SE_RG_Imediatas_2025.zip": {
+    "content-length": "897451",
+    "etag": "\"db1ab-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "82b870de1ac9b77e594193dcad4cef12b041140a0126afcc244ba862bdb19bd4"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SE/SE_RG_Intermediarias_2025.zip": {
+    "content-length": "657339",
+    "etag": "\"a07bb-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "edd84379bb5cd6bc3879786a5e5b103d674420a21304b692485006c003cf3a8c"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SE/SE_UF_2025.zip": {
+    "content-length": "508964",
+    "etag": "\"7c424-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "b32b1dbd69ac84ecbbcb4edaf8fa6cec49bf5865059baf932f81c3df8a7eef8a"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SP/SP_Municipios_2025.zip": {
+    "content-length": "15323102",
+    "etag": "\"e9cfde-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "3ea8041f69e10e68045ff1275616f01673d94019d8105a00212354b80a067c3c"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SP/SP_RG_Imediatas_2025.zip": {
+    "content-length": "4402037",
+    "etag": "\"432b75-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "8046198fd996f10dffdf3128c463b90ee1e12156bef19232f3d080769701bd32"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SP/SP_RG_Intermediarias_2025.zip": {
+    "content-length": "2385115",
+    "etag": "\"2464db-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "ef5be45f26a4246a9df9f4cb276d68e42f0789ac72e502a6132ad79cc1ca113d"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/SP/SP_UF_2025.zip": {
+    "content-length": "650476",
+    "etag": "\"9ecec-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "326204179d3a45fb4de7e1b453290a8aa6fae3275a8d8cfb0e54bbcb283f2279"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/TO/TO_Municipios_2025.zip": {
+    "content-length": "23928510",
+    "etag": "\"16d1ebe-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "e49ebd5ed9ed194e9f02fdc82f5bd629b7a977ceee7841b530873bc513a7aa1b"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/TO/TO_RG_Imediatas_2025.zip": {
+    "content-length": "7563356",
+    "etag": "\"73685c-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "14430a7dc7a68363420ebb11e0a00d4943fc324e73d0fad197facfc92ba028af"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/TO/TO_RG_Intermediarias_2025.zip": {
+    "content-length": "3451312",
+    "etag": "\"34a9b0-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "68a5fd4071a3618903ee7879c14905c5dca35cc6d8089f416fba0048f67803ab"
+  },
+  "https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2025/UFs/TO/TO_UF_2025.zip": {
+    "content-length": "1432247",
+    "etag": "\"15dab7-64bbf9b069300\"",
+    "last-modified": "Thu, 26 Feb 2026 20:02:52 GMT",
+    "sha256": "677ae8296458d6de5827d7681c891f02fa556b145826f59adf89a4f04436fbb0"
+  }
+}
