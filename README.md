@@ -1,5 +1,7 @@
 # br-maps
 
+[🇧🇷 Português](README.pt.md) | 🇺🇸 English
+
 GeoJSON files for Brazil's official territorial meshes, automatically kept up to date from [IBGE](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html).
 
 A GitHub Actions workflow runs daily, downloads the latest shapefiles from IBGE's FTP server, converts them to GeoJSON, and commits any changes to this repository. Large files are stored via [Git LFS](https://git-lfs.com).
