@@ -1,0 +1,23 @@
+# Raw shapefiles and ZIP downloads (never committed)
+*.zip
+*.shp
+*.dbf
+*.prj
+*.shx
+*.cpg
+*.qix
+*.sbn
+*.sbx
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
